@@ -1,13 +1,9 @@
 #include<stdio.h>
 /**
+ *main - print size of data
  *
- * *main - print size of data
- *
- * *
- *
- * * Return: Always 0
- *
- * */
+ * Return: Always 0
+ */
 int main(void)
 {
 	printf("Size of a char: %d byte(s)\n", sizeof(char));
