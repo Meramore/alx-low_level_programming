@@ -50,8 +50,15 @@ int main(void)
 
 								else
 
+<<<<<<< HEAD
 									{
 												printf("%d is negative\n", n);
 				}
+=======
+										{
+
+													printf("%d is negative\n", n);
+														}
+>>>>>>> f6b45b17e0903de1c7b26c8d460f4c5cfd60a56c
 									return (0);
 }
